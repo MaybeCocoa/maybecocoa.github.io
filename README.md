@@ -43,11 +43,8 @@
 
 ## Fifth semester
 
-### Theme 1
+### Theme 3
 
 [Unicode](https://github.com/MaybeCocoa/ITinFL/blob/main/tibet.html)
-
-
-### Theme 2
 
 [Button](https://github.com/MaybeCocoa/ITinFL/blob/main/button.html)
