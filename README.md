@@ -37,3 +37,19 @@
 Интерфейсы HTML5 API и их взаимодействие с языком JavaScript.
 
 [Задание по созданию проектированию и разработке интерфейса микшера цветов и корзины покупателя в интернет-магазине](https://github.com/MaybeCocoa/ZhukovSergeyWeb/tree/master/FifthTask)
+
+
+# Portfolio in the discipline "IT in foreign languages".
+
+## Fifth semester
+
+### Theme 1
+
+[Unicode]
+(https://github.com/MaybeCocoa/ITinFL/blob/main/tibet.html)
+
+
+### Theme 2
+
+[Button]
+(https://github.com/MaybeCocoa/ITinFL/blob/main/button.html)
