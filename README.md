@@ -45,11 +45,9 @@
 
 ### Theme 1
 
-[Unicode]
-(https://github.com/MaybeCocoa/ITinFL/blob/main/tibet.html)
+[Unicode](https://github.com/MaybeCocoa/ITinFL/blob/main/tibet.html)
 
 
 ### Theme 2
 
-[Button]
-(https://github.com/MaybeCocoa/ITinFL/blob/main/button.html)
+[Button](https://github.com/MaybeCocoa/ITinFL/blob/main/button.html)
